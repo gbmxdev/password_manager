@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+    <string name="action_settings">Toggle encryption...</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Password Manager</string>
+    <string name="second_fragment_label">Password database</string>
+    <string name="next">Start</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">This is the password manager; your passwords can be accessed by entering the site or domain in the input field after clicking start!</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_settings_menu">SettingsMenu</string>
+    <string name="preference_encryption">encrypt</string>
+    <string name="encrypt">encrypt</string>
+</resources>
